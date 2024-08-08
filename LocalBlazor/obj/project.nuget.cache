@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7+JejC5T9JRruEdvDfft7rJOkvSrAhlziR4kN1D6QrYrkYOTwDEbysWBIesIBjMxk2M5D/h2KFVsmYex2TsQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\LocalBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.localization\\8.0.7\\microsoft.extensions.localization.8.0.7.nupkg.sha512",
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\8.0.7\\microsoft.extensions.localization.abstractions.8.0.7.nupkg.sha512",
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\mehed\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
