@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0vkyKYjKT/6H7NBbP4CDYqEbTX6iGYMBNSJPDVnmCrs=",
+  "Hash": "1AbrQUnDVOlJYP70Rf248XkcYu34u26K1IkWcKqdHN0=",
   "Source": "LocalBlazor",
   "BasePath": "_content/LocalBlazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LocalBlazor\\wwwroot",
       "Source": "LocalBlazor",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\",
       "BasePath": "_content/LocalBlazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LocalBlazor.styles.css",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LocalBlazor.styles.css",
       "SourceId": "LocalBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "LocalBlazor.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LocalBlazor.styles.css"
+      "OriginalItemSpec": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\LocalBlazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazor.bundle.scp.css",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazor.bundle.scp.css",
       "SourceId": "LocalBlazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "LocalBlazor.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Office\\LocalBlazor\\LocalBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LocalBlazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\app.css",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\app.css",
       "SourceId": "LocalBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "LocalBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "LocalBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\favicon.png",
       "SourceId": "LocalBlazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mehed\\source\\repos\\LocalBlazor\\LocalBlazor\\wwwroot\\",
+      "ContentRoot": "C:\\Office\\LocalBlazor\\LocalBlazor\\wwwroot\\",
       "BasePath": "_content/LocalBlazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
